@@ -9,5 +9,5 @@ metadata:
   #   backstage.io/techdocs-ref: dir:.
 spec:
   type: website
-  owner: user:abhay-statusneo
+  owner: user:utkarshneo
   lifecycle: experimental
